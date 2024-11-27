@@ -1,1 +1,2 @@
 # Data-Science-Projects
+This is a collection of the projects I have been working on. I free code and use python libraries including NumPy, Pandas, Matplotlib, Scikit-learn, Requests, Seaborn, and Beautiful Soup
